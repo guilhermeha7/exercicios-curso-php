@@ -13,5 +13,5 @@ Uma variável é considerada vazia se for:
 */
 
 /*
-if (isset($variavel)) { } -> Executa se a variável tiver sido criada
+if (isset($variavel)) { } -> Executa se a variável tiver sido criada e não for null
 */
