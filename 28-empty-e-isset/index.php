@@ -11,3 +11,7 @@ Uma variável é considerada vazia se for:
     * array() (um array vazio)
     * $var; (uma variável declarada, mas sem valor)
 */
+
+/*
+if (isset($variavel)) { } -> Executa se a variável tiver sido criada
+*/
